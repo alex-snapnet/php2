@@ -14,3 +14,4 @@ jobs:
         server: '67.225.140.132'
         username: 'rsoftpro'
         password: 'wK87!v8Cw@Se5S'
+        local-dir:  '/public_html/'
