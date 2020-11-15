@@ -11,6 +11,7 @@ jobs:
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@4.0.0
       with:
-        server: 67.225.140.132/public_html
+        server: 67.225.140.132
         username: rsoftpro
         password: wK87!v8Cw@Se5S
+        local-dir:  public_html/  
